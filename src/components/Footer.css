@@ -1,0 +1,28 @@
+/* src/components/Footer.css */
+.footer {
+  background-color: #222;
+  color: #ddd;
+  text-align: center;
+  padding: 2rem;
+  margin-top: 2rem;
+}
+
+.footer p {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.social-links {
+  margin-top: 1rem;
+}
+
+.social-links a {
+  margin: 0 10px;
+  color: #ddd;
+  text-decoration: none;
+}
+
+.social-links a:hover {
+  text-decoration: underline;
+  color: #1e90ff;
+}

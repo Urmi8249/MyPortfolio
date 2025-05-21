@@ -1,0 +1,22 @@
+/* src/components/Hero.css */
+.hero {
+  height: 100vh;
+  background: linear-gradient(to right, #1a1a1a, #333);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 2rem;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.hero p {
+  font-size: 1.25rem;
+  max-width: 600px;
+}
